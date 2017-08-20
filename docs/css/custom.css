@@ -1,0 +1,38 @@
+.screenshot-box{margin:20px auto 0;max-width:720px;margin-bottom:50px;}
+@media(min-width:992px){.screenshot-box{margin:20px auto 0;margin-bottom:50px;}
+}
+.screenshot-box p{margin-bottom:50px;}
+.padding-row{margin:20px auto 0;max-width:1350px;}
+.img-responsive{border-radius:15px;}
+@media(max-width:767px){.img-responsive-banner{max-width:250%;margin-left:33%;transform:translateX(-50%);}
+}
+.no-radius{border-radius:0px;}
+#footer{width:100%;max-width:100%;margin-top:2rem;text-align:center;padding:30px 15px 5px 15px;}
+.break:before{content:"\A";white-space:pre;}
+@media(min-width:450px){.break:before{content:"";}
+}
+.fruitkingdom-header{background-image:url(../img/fk_bg.jpg);}
+.omnitests-header{background-image:url(../img/ot_bg.jpg);}
+.extra-margin{margin:30px 0px 30px 0px;padding:10px 0px 25px 0px;}
+.extra-margin-2{margin:10px 0px 10px 0px;}
+.extra-margin-3{margin:40px 0px 0px 0px;}
+.extra-margin-4{margin:10px 0px 15px 0px;}
+.extra-margin-5{margin:150px 0px 80px 0px;}
+#header-arrow{font-size:140px;margin:-10px auto;text-align:center;position:absolute;width:100%;left:0;bottom:-120px;cursor:pointer;opacity:0.6;transition:all ease 0.3s;-webkit-transition:all ease 0.3s;-moz-transition:all ease 0.3s;}
+#header-arrow:hover{opacity:1.0;}
+@media only screen and (max-width:767px){#header-arrow{display:none;}
+}
+.bg-light{color:#fff;background-color:#D7D7D7;}
+mark.orange{color:#FF6060;background:none;}
+h3{color:#222;}
+hr.style18{border-width:0 0 0 0;}
+h1.pacifico{font-family:'Pacifico', cursive;}
+p.pacifico{font-family:'Pacifico', cursive;}
+h1.goudy{font-family:'Sorts Mill Goudy', serif;}
+p.goudy{font-family:'Sorts Mill Goudy', serif;}
+@media(min-width:700px){.hero-font-h1{font-size:100px!important;}
+}
+@media(min-width:700px){.hero-font-p{font-size:32px!important;}
+}
+.justify-this{text-align:justify;text-justify:inter-word;}
+.over-hid{overflow:hidden;}

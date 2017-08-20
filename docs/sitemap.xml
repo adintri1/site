@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://apstrom.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://apstrom.com/fruitkingdom/</loc>
+  </url>
+  
+  <url>
+    <loc>http://apstrom.com/fruitkingdom/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://apstrom.com/omnitests/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://apstrom.com/omnitests/</loc>
+  </url>
+  
+  <url>
+    <loc>http://apstrom.com/404/</loc>
+  </url>
+  
+  <url>
+    <loc>http://apstrom.com/privacy-policy-fruitkingdom/</loc>
+  </url>
+  
+  <url>
+    <loc>http://apstrom.com/privacy-policy-omnitests/</loc>
+  </url>
+  
+  <url>
+    <loc>http://apstrom.com/privacy-policy-fruitkingdom/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://apstrom.com/privacy-policy-omnitests/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fruitkingdoms on Apstrom · Highly polished mobile apps to solve everyday problems.</title>
+    <link>http://apstrom.com/fruitkingdom/index.xml</link>
+    <description>Recent content in Fruitkingdoms on Apstrom · Highly polished mobile apps to solve everyday problems.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 apstrom</copyright>
+    <atom:link href="http://apstrom.com/fruitkingdom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FruitKingdom · apstrom</title>
+      <link>http://apstrom.com/fruitkingdom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://apstrom.com/fruitkingdom/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
